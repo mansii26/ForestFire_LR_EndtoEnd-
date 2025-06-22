@@ -40,9 +40,7 @@ forestfire-main/<br>
 4️⃣ Run the Flask app: <br>
       &nbsp;python application.py<br>
 
- ## 📸 Screenshots
-
-## 📸 Screenshots
+ ## 📸 Screenshots  
 
 ### Homepage
 
