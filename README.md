@@ -43,16 +43,17 @@ forestfire-main/<br>
  ## 📸 Screenshots  
 
 ### Homepage
+https://github.com/mansii26/ForestFire_LR_EndtoEnd-/blob/main/static/screenshots/EnterData.png
 
-![Homepage](https://github.com/mansii26_/ForestFire_LR_EndtoEnd-/blob/main/static/screenshots/Homepage.png?raw=true)
+![Homepage](https://github.com/mansii26/ForestFire_LR_EndtoEnd-/blob/main/static/screenshots/Homepage.png?raw=true)
 
 ### Enter Data Form
 
-![Enter Data Form](https://github.com/mansii26_/ForestFire_LR_EndtoEnd-/blob/main/static/screenshots/EnterData.png?raw=true)
+![Enter Data Form](https://github.com/mansii26/ForestFire_LR_EndtoEnd-/blob/main/static/screenshots/EnterData.png)
 
 ### Prediction Page
 
-![Prediction Page](https://github.com/mansii26_/ForestFire_LR_EndtoEnd-/blob/main/static/screenshots/Prediction.png?raw=true)
+![Prediction Page](https://github.com/mansii26/ForestFire_LR_EndtoEnd-/blob/main/static/screenshots/Prediction.png?raw=true)
 
 
     
