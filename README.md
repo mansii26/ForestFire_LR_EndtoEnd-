@@ -28,7 +28,7 @@ forestfire-main/<br>
 ├── README.md  
 └── requirements.txt  
 
-##🚀 How to Run Locally<br>
+## 📂 How to run it locally
 1️⃣ Clone the repository:<br>
    &nbsp; git clone https://github.com/mansii26_/forestfire-main.git<br>
     &nbsp; cd forestfire-main<br>
@@ -39,3 +39,20 @@ forestfire-main/<br>
       &nbsp;pip install -r requirements.txt<br>
 4️⃣ Run the Flask app: <br>
       &nbsp;python application.py<br>
+
+ ## 📸 Screenshots
+
+### Homepage
+
+![Homepage](static\screenshots\Homepage.png)
+
+### Prediction Page  
+
+![Enter Data Form](static\screenshots\EnterData.png)  
+
+
+### Prediction Page
+
+![Prediction Page](static\screenshots\Prediction.png)
+
+    
